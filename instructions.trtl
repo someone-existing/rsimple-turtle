@@ -1,0 +1,11 @@
+rotation north
+walk 50
+
+rotation west
+walk 50
+
+rotation south
+walk 50
+
+rotation east
+walk 50
